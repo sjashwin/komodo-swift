@@ -6,6 +6,9 @@
 ### Description:
 - #### Komodo-RPC library helps you integrate your Java Apps with Komodo asset-chains without having to setup/implement required RPC functions. Include this Jar and call Komodo-API RPCs as easily as calling a local function. Komodo-RPC library acts as a wrapper between your Python app and the Komodo-daemon running on a server.
 #####
+### For documentation have a look at:
+###
+- ##### [Smart chain API](https://developers.komodoplatform.com/basic-docs/smart-chains/smart-chain-api/address.html)
 ### Installation:
 #### Download pre-built-distribution:
 - [komodo-api](https://github.com/chrisgiffy/komodo-api-java/blob/master/jar/komodo-api.jar)
